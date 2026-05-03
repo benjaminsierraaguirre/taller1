@@ -1,0 +1,15 @@
+1,vampire,Olivia Rodrigo,GUTS,2023,219,music/olivia_vampire.mp3
+2,Beautiful Things,Benson Boone,Fireworks & Rollerblades,2024,180,music/benson_beautifulthings.mp3
+3,Pink Skies,Zach Bryan,The Great American Bar Scene,2024,202,music/zach_pinkskies.mp3
+4,Stick Season,Noah Kahan,Stick Season,2022,182,music/noah_stickseason.mp3
+5,All the Debts I Owe,Caamp,Caamp,2016,172,music/caamp_allthedebtsiowe.mp3
+6,Go Go Juice,Sabrina Carpenter,Man's Best Friend,2025,193,music/sabrina_gogojuice.mp3
+7,Risk,Gracie Abrams,The Secret of Us,2024,191,music/gracie_risk.mp3
+8,Halley's Comet,Billie Eilish,Happier Than Ever,2021,243,music/billie_halleycomet.mp3
+9,Bangarang,Skrillex,Bangarang EP,2011,215,music/skrillex_bangarang.mp3
+10,HOT TO GO!,Chappell Roan,The Rise and Fall of a Midwest Princess,2023,184,music/chappell_hottogo.mp3
+11,Linger,Royel Otis,Linger (Single),2024,195,music/royelotis_linger.mp3
+12,pretty isn't pretty,Olivia Rodrigo,GUTS,2023,199,music/olivia_prettyisntpretty.mp3
+13,Forever and a Day,Benson Boone,Fireworks & Rollerblades,2024,225,music/benson_foreverandaday.mp3
+14,drop dead,Olivia Rodrigo,you seem pretty sad for a girl so in love,2026,224,music/olivia_dropdead.mp3
+15,Lavender Girl,Caamp,Lavender Days,2022,203,music/caamp_lavendergirl.mp3
