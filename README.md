@@ -105,7 +105,7 @@ classDiagram
 **Clonar el proyecto:**
 Abre la terminal en la carpeta donde quieras guardar el proyecto y ejecuta:
 ```bash
-git clone https://[github.com](https://github.com/benjaminsierraaguirre/taller1
+git clone https://github.com/benjaminsierraaguirre/taller1
 ```
 
 **Acceder a la carpeta:**
