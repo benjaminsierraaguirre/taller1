@@ -102,8 +102,17 @@ classDiagram
     Menu --> Cancion
 ```
 ## Instrucciones de Compilación y Ejecución
+1. **Clonar el proyecto:**
+   Abre la terminal en la carpeta donde quieras guardar el proyecto y ejecuta:
+   ```bash
+   git clone https://github.com
+   ```
 
-Debido a que el proyecto cuenta con múltiples carpetas, se recomienda usar el siguiente comando desde la raíz (donde está `main.cpp`):
+2. **Acceder a la carpeta:**
+   Una vez clonado, entra al directorio del proyecto:
+   ```bash
+   cd taller1
+   ```
 
 **Compilación con G++:**
 ```bash
