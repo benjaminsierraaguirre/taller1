@@ -102,14 +102,19 @@ classDiagram
     Menu --> Cancion
 ```
 ## Instrucciones de Compilación y Ejecución
-Debido a que el proyecto cuenta con múltiples carpetas, se recomienda usar el siguiente comando desde la raíz (donde está main.cpp):
+
+Debido a que el proyecto cuenta con múltiples carpetas, se recomienda usar el siguiente comando desde la raíz (donde está `main.cpp`):
+
 **Compilación con G++:**
-bash
+```bash
 g++ -std=c++14 main.cpp classes/Cancion.cpp core/LectorArchivos.cpp core/Reproductor.cpp core/Menu.cpp -o reproductor
+```
 
 **Ejecución:**
-* En Windows: ./programa.exe
-* En Linux/Mac: ./programa
+
+*   **En Windows:** `./reproductor.exe`
+*   **En Linux/Mac:** `./reproductor`
+
 ## Funcionamiento de la Aplicación
 Al ejecutar el programa, este leerá automáticamente el archivo music_source.txt. El usuario podrá interactuar mediante una interfaz de consola para ejecutar múltiples opciones, como lo son:
 1. Reproducir/Pausar
