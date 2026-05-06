@@ -1,8 +1,8 @@
 # Sierra's Music Player
 ### Integrantes:
-* [Benjamín Sierra]
+* Benjamín Sierra
 ## Descripción del Proyecto
-Este proyecto es la solución al Taller 1 de Estructura de Datos. Implementa un reproductor de música por consola escrito en C++, sin el uso de contenedores STL. Toda la gestión de datos se realiza con estructuras implementadas manualmente: lista enlazada, pila y cola con nodos. El programa carga un catálogo de canciones desde music_source.txt, permite navegar entre pistas,
+El reproductor de música Sierra's Music Player es un reproductor por consola escrito en C++, sin el uso de contenedores STL. Toda la gestión de datos se realiza con estructuras implementadas manualmente: lista enlazada, pila y cola con nodos. El programa carga un catálogo de canciones desde music_source.txt, permite navegar entre pistas,
 activar modo aleatorio, repetición y gestionar una lista de reproducción.
 El estado del reproductor se guarda automáticamente en status.cfg al realizar cualquier acción, permitiendo retomar la sesión exactamente donde se dejó.
 
